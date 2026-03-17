@@ -1,5 +1,5 @@
 #Condition 
-As seen in @jrcalc2020headachejrcalcguideline
+As seen in [@jrcalc2020headachejrcalcguideline]
 
 - Most painful type of headache that happen suddenly on one side behind eye
 - 'clusters' of frequent headache episodes, followed by absence for months
