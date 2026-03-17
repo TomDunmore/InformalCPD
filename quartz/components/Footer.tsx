@@ -14,8 +14,9 @@ export default ((opts?: Options) => {
     return (
       <footer class={`${displayClass ?? ""}`}>
         <p>
-          {i18n(cfg.locale).components.footer.createdWith}{" "}
-          <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
+          This site is an unofficial compilation of CPD material and is provided for informational
+          purposes only. It is not medical advice. Always do your own research and consult a
+          qualified healthcare professional before making any medical decisions.
         </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
