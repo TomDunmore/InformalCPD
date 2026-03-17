@@ -1,6 +1,6 @@
 ---
 title: Stroke
-draft: true
+draft: false
 ---
 #Condition 
 As seen in @jrcalc2021stroketransientischaemic
@@ -42,4 +42,4 @@ Hospital ASAP
 
 Pre-alert is the biggest difference you can make outside hospital
 
-
+Useful link: https://cks.nice.org.uk/topics/stroke-tia/diagnosis/assessment/

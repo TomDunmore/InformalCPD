@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 ---
 @jrcalc2025seizuresadultsjrcalc
 
@@ -21,6 +21,16 @@ draft: true
 - Functional seizures are far more common than malingered (acted out) seizures
 - Last prolonged periods, but no long term risk is present
 - Very important to distinguish between BLTCS
+## Key Differences in FND 
+- Fluctuates in intensity
+- Arm and leg movements often not synchronised
+- May have limited communication whilst seizing
+- Eyes and mouth closed
+- Reactive pupils
+- Often prolonged
+- Hyperventilating, but not hypoxic
+- Arching of the head with side to side movements
+- No post ictal phase
 
 # Syncope (Fainting)
 - A short amount of seizure activity can be seen in those who faint
