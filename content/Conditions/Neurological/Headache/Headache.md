@@ -20,3 +20,5 @@ Caused by underlying pathophysiology
 
 # Red Flags
 ![[headacheRedFlags.png]]
+
+# References

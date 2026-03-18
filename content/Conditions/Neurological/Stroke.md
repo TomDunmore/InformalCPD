@@ -43,3 +43,5 @@ Hospital ASAP
 Pre-alert is the biggest difference you can make outside hospital
 
 Useful link: https://cks.nice.org.uk/topics/stroke-tia/diagnosis/assessment/
+
+# References

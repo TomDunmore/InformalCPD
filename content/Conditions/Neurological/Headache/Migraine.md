@@ -29,6 +29,4 @@ As seen in @jrcalc2020headachejrcalcguideline
 | Radiating              | Varies                                 |
 | Exacerbating Relieving | Varies                                 |
 | Severity               | Severe                                 |
-
-
-
+# References

@@ -6,3 +6,5 @@ As seen in [@jrcalc2020headachejrcalcguideline]
 - Episodic cluster headaches (90%)- Where gaps between clusters  are over 1 month
 - Chronic cluster headaches (10%)- gaps between clusters of less than 1 month
 - 80% are male and smokers
+
+# References

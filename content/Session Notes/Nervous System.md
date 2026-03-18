@@ -2,6 +2,7 @@
 draft: false
 title: 17.03.26 Nervous System
 ---
+# Session Summary
 Thank you to those able to attend this session. For those who missed out, this page will go through what was covered and my notes!
 
 # Anatomy

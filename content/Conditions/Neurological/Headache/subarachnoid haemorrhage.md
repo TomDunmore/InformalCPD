@@ -5,4 +5,5 @@ As seen in @jrcalc2020headachejrcalcguideline
 - Sudden, short lasting 'thunderclap' headache (feels like being hit)
 - Often described as the worst headache ever
 - Seizures in 7% - headache + seizure means SAH likely
-- 
+
+# References

@@ -49,3 +49,5 @@ draft: false
 - Active BLTCS require 15L/m oxygen and airway management/suction (mindful of lockjaw or trismus)
 - Consider need for medication / HCP support if not resolving
 - 5 minutes or more is considered status epilepticus and is when medication is used
+
+# References

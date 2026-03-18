@@ -7,3 +7,4 @@ As seen in @jrcalc2020headachejrcalcguideline
 - Typically last for 1-6 hours
 - Also consider Carbon Monoxide poisoning or [[Medication-Overuse Headaches]]
 
+# References

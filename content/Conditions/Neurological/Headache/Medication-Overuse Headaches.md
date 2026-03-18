@@ -7,3 +7,4 @@ As seen in @jrcalc2020headachejrcalcguideline
 	- Analgesics like triptans, opioids or ergots
 	- Paracetamol, Aspirin or NSAIDs (e.g. ibuprofen)
 
+# References
