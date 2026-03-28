@@ -14,8 +14,6 @@
 - Some evidence of improved return of circulation odds compared to [[Lifepak 15]], but no change in 30 day survival rates. Believed to be caused by CPR feedback and not difference in defibrillation efficacy [@meilandt2024associationdefibrillationusing]
 
 > [!bug] User Manual could not be included here due to size
-> See link: [User Manual](https://www.zoll.com/-/media/product-materials/legacy>edia_public-site_products/x-series/9650-002355/9650-002355-05-sf_f.ashx)
-
 
 #Equipment 
 
